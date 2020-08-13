@@ -1,14 +1,4 @@
 # Railway Reservation System Using C++
- 
-Railway Reservation System
-Version 1.0 (2018-2019)
-Reference
-
-
-
-1.www.google.com/C++ project
-
-2.www.wikepedia.com/c++ projects
 
 # Introduction
 The aim of this C++ project on Railway Management System is to manage the details of Trains, Passengers, Fare and Bookings. The Railway Management System is very useful as the passenger can directly book the train from home via internet on a mobile or a computer system. The application reduces a lot of work load for the passenger as well as the ticketing officers. Using this railway management system the user can easily manage his ticket bookings efficiently.
