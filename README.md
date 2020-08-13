@@ -9,7 +9,7 @@ Reference
 1.www.google.com/C++ project
 2.www.wikepedia.com/c++ projects
 
-### Introduction
+# Introduction
 The aim of this C++ project on Railway Management System is to manage the details of Trains, Passengers, Fare and Bookings. The Railway Management System is very useful as the passenger can directly book the train from home via internet on a mobile or a computer system. The application reduces a lot of work load for the passenger as well as the ticketing officers. Using this railway management system the user can easily manage his ticket bookings efficiently.
 
 The application contains the following activities:
@@ -19,23 +19,23 @@ The application contains the following activities:
 	•	Passenger friendly management system.
 	•	Separate function for the Admin to control the modification of train and fare related information at the back-end.
 	
-## Admin:
+### Admin:
 The admin tab contains train details. The admin can add trains, modify the fares or delete any train from the train list.
 
-## User:
+### User:
 The user tab allows the user to reserve a seat on any train or cancel the seat reservation.
 
 
-## Search:
+### Search:
 The search tab allows the user to search for any train they want to book a seat on. The user can search the required train by either the train number or train name. 
 
-## Status:
+### Status:
 The status tab is used to display the passenger status.
 
-## Quit:
+### Quit:
 The quit tab is used to exit.
 
-### Output Screen
+# Output Screen
 
 ## MAIN MENU
 
@@ -44,15 +44,15 @@ The quit tab is used to exit.
 
 
 
-# ->ADD TRAIN
+### ->ADD TRAIN
 
-# ->MODIFY FARE
-
-
+### ->MODIFY FARE
 
 
 
-# ->DELETE TRAIN
+
+
+### ->DELETE TRAIN
 
 
 
@@ -62,23 +62,23 @@ The quit tab is used to exit.
 
 
 
-# ->RESERVE
+### ->RESERVE
 
 
 
 
 
-# ->CANCEL
+### ->CANCEL
 
 
 
 
 ## SEARCH TRAIN
 
-# ->BY TRAIN NO.
+### ->BY TRAIN NO.
 
 
-# ->BY TRAIN NAME
+### ->BY TRAIN NAME
 
 
 
@@ -94,7 +94,7 @@ The quit tab is used to exit.
 ## REPORTS
 
 
-# ->PASSENGER STATUS
+### ->PASSENGER STATUS
 
 
 
@@ -103,7 +103,7 @@ The quit tab is used to exit.
 
 
 
-# ->CHART LIST
+### ->CHART LIST
 
 
 ## QUIT
@@ -116,7 +116,7 @@ The quit tab is used to exit.
 
 
 
-### Hardware & Software Requirement
+# Hardware & Software Requirement
 
 ## Hardware Requirement
 Intel core/i3/i5/i7 or any equivalent
