@@ -1,4 +1,4 @@
-# cpp-reservation-system
+# Railway Reservation System Using C++
  
 Railway Reservation System
 Version 1.0 (2018-2019)
