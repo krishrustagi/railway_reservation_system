@@ -1,23 +1,3 @@
-MYMENU_1.CPP
-Not shared
-Type
-C++
-Size
-13 KB (13,659 bytes)
-Storage used
-13 KB (13,659 bytes)
-Location
-My Drive
-Owner
-me
-Modified
-Nov 30, 2018 by me
-Opened
-10:54 AM by me
-Created
-Nov 28, 2018
-Add a description
-Viewers can download
 #include <fstream.h>
 #include <stdio.h>
 #include <conio.h>
