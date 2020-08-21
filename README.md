@@ -80,14 +80,7 @@ The quit tab is used to exit.
 
 
 ## QUIT
-
-
-
-
-
-
-
-
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_21_00 PM](https://user-images.githubusercontent.com/54409969/90872585-7f74ba80-e3ba-11ea-8208-4a4d66ab5e90.png)
 
 # Hardware & Software Requirement
 
