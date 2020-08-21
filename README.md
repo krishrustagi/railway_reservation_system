@@ -29,72 +29,54 @@ The quit tab is used to exit.
 # Output Screen
 
 ## MAIN MENU
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_08_45 PM](https://user-images.githubusercontent.com/54409969/90871067-1be98d80-e3b8-11ea-8006-841d756ac685.png)
 
 
 ## ADMIN 
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_09_24 PM](https://user-images.githubusercontent.com/54409969/90871128-33287b00-e3b8-11ea-8747-d04884b631e6.png)
 
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_10_49 PM](https://user-images.githubusercontent.com/54409969/90871178-49363b80-e3b8-11ea-803d-cbe2aaff3ed0.png)
 
 
 ### ->ADD TRAIN
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_11_42 PM](https://user-images.githubusercontent.com/54409969/90871256-6408b000-e3b8-11ea-8ac5-12ceeea1c5dc.png)
 
 ### ->MODIFY FARE
 
-
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_12_10 PM](https://user-images.githubusercontent.com/54409969/90871276-6ff47200-e3b8-11ea-87d9-458dce977aaf.png)
 
 
 
 ### ->DELETE TRAIN
-
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_12_37 PM](https://user-images.githubusercontent.com/54409969/90871295-7a167080-e3b8-11ea-909f-28b5cbb52f5b.png)
 
 
 ## USER
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_13_07 PM](https://user-images.githubusercontent.com/54409969/90871320-87335f80-e3b8-11ea-8cc7-c8be94f16d7e.png)
 
 
 
 
 
 ### ->RESERVE
-
-
-
-
-
-### ->CANCEL
-
-
-
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_32_08 PM](https://user-images.githubusercontent.com/54409969/90871438-ba75ee80-e3b8-11ea-8cb4-594adf9a8f98.png)
 
 ## SEARCH TRAIN
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_17_41 PM](https://user-images.githubusercontent.com/54409969/90871555-e1ccbb80-e3b8-11ea-86b3-6f81187dd2d4.png)
 
 ### ->BY TRAIN NO.
-
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_17_50 PM](https://user-images.githubusercontent.com/54409969/90871766-34a67300-e3b9-11ea-9bc3-2079468e99b4.png)
 
 ### ->BY TRAIN NAME
-
-
-
-
-
-
-
-
-
-
-
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_18_00 PM](https://user-images.githubusercontent.com/54409969/90871836-530c6e80-e3b9-11ea-9825-3acef16c0abc.png)
 
 ## REPORTS
 
-
 ### ->PASSENGER STATUS
-
-
-
-
-
-
-
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_20_25 PM](https://user-images.githubusercontent.com/54409969/90871960-864efd80-e3b9-11ea-8b09-3913e23de880.png)
 
 ### ->CHART LIST
+![DOSBox 0 74, Cpu speed_ max 100% cycles, Frameskip  0, Program_       TC 8_13_2020 12_20_50 PM](https://user-images.githubusercontent.com/54409969/90872025-9b2b9100-e3b9-11ea-9826-1ff12166bd7e.png)
 
 
 ## QUIT
